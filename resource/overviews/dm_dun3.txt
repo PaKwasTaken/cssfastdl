@@ -1,9 +1,0 @@
-"dm_dun3"
-{
-"material" "overviews/dm_dun3"
-"pos_x" "-3817"
-"pos_y" "2705"
-"scale" "6.0"
-"rotate" "0"
-"zoom" "1.3"
-}
