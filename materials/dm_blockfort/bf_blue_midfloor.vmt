@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+$basetexture dm_blockfort\bf_blue_midfloor
+$envmap env_cubemap
+$surfaceprop brick
+
+}
