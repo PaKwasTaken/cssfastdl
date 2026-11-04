@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+    "$basetexture" "sprites/rsp_wallhack_vividgreen_0313"
+    "$translucent" "1"
+    "$vertexcolor" "1"
+    "$vertexalpha" "1"
+    "$additive" "1"
+    "$ignorez" "1"
+    "$nofog" "1"
+    "$nolod" "1"
+    "$selfillum" "1"
+}
